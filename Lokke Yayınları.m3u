@@ -1,0 +1,620 @@
+EXTM3U
+#EXTINF:-1 group-title="GLWIZ Turkey", tvg-logo="http://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g",TRT 1
+http://tv.smartglwiz.workers.dev/?ID=TRT1_HD
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/45155.jpeg",tabii TV
+http://tabii.mobi-tv.workers.dev/tabiiTV.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43023.jpeg",tabii spor
+http://tabii.mobi-tv.workers.dev/tabiispor.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43005.jpeg",tabii Spor 1
+http://tabii.mobi-tv.workers.dev/tabiiSpor1.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43008.jpeg",tabii Spor 2
+http://tabii.mobi-tv.workers.dev/tabiiSpor2.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/43011.jpeg",tabii Spor 3
+http://tabii.mobi-tv.workers.dev/tabiiSpor3.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43014.jpeg",tabii Spor 4
+http://tabii.mobi-tv.workers.dev/tabiiSpor4.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43017.jpeg",tabii Spor 5
+http://tabii.mobi-tv.workers.dev/tabiiSpor5.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-rotf-api.tabii.com/r/int/webp/w273/h154/q90/43020.jpeg",tabii Spor 6
+http://tabii.mobi-tv.workers.dev/tabiiSpor6.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/51612_0-0-1919-1080.jpeg",tabii Spor 7
+http://tabii.mobi-tv.workers.dev/tabiiSpor7.m3u8
+#EXTINF:-1 group-title="tabiiTV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w273/h154/q90/60594_0-0-1919-1080.jpeg",tabii Spor 8
+http://tabii.mobi-tv.workers.dev/tabiiSpor8.m3u8
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: 24 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=199816812259f0b53e0987
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: 360 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=4733005734f00de856f2a
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: A HABER HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1064954896823e0373977d
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: A SPOR HD |D
+http://python-worker.dsmartgo.workers.dev/ID=17711375392d6892b04f39
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: A2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=20190552770d1c1a3c2413
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: AK T TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=3445585687ff1b781a9c66
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: ATV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2325261286da82934849d6
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: BABYTV |D
+http://python-worker.dsmartgo.workers.dev/ID=1758313456e08f6bd1e68d
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: BENG TURK |D
+http://python-worker.dsmartgo.workers.dev/ID=27023767901b13d692350f
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: BEYAZ TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=805689873d1f86dda0ea7
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: CNN TURK HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2056768647b3cd3bee1ca9
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: DA VINCI |D
+http://python-worker.dsmartgo.workers.dev/ID=410345406299d44c79038
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: DISCOVERY CHANNEL HD |D
+http://python-worker.dsmartgo.workers.dev/ID=4017734592ca62e60551e2
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: DISNEY JUNIOR |D
+http://python-worker.dsmartgo.workers.dev/ID=6492287223aeb9641d173
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: DMAX HD |D
+http://python-worker.dsmartgo.workers.dev/ID=869937351a88d2213b307
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: DREAM TURK |D
+http://python-worker.dsmartgo.workers.dev/ID=426668302523b70cecff67
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: EKOL TV |D
+http://python-worker.dsmartgo.workers.dev/ID=270621004988468cbd1a9a
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: ENGLISH CLUB TV |D
+http://python-worker.dsmartgo.workers.dev/ID=925055356bf38eb3da4fd
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: EPIC DRAMA |D
+http://python-worker.dsmartgo.workers.dev/ID=678261693dddf74618b2a
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: EUROSPORT 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2078862937dc11f33ed82b
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: EUROSPORT 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=411722796226260c919a04
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: EXXEN TV |D
+http://python-worker.dsmartgo.workers.dev/ID=194469526890e8a6e97e7
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: FB TV |D
+http://python-worker.dsmartgo.workers.dev/ID=3730681078c47dd7a33759
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: FLASH TV |D
+http://python-worker.dsmartgo.workers.dev/ID=26870178411ec494ca52e7
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: FX HD |D
+http://python-worker.dsmartgo.workers.dev/ID=15614953190ad560802cc0
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: HABER GLOBAL HD |D
+http://python-worker.dsmartgo.workers.dev/ID=119662638752f4a2975591
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: HABERTURK HD |D
+http://python-worker.dsmartgo.workers.dev/ID=42533693767c6c65924ea5
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: HALK TV |D
+http://python-worker.dsmartgo.workers.dev/ID=1320391955dfdc732d6056
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: KANAL 7 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=10926679593933319c6c99
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: KANAL D HD |D
+http://python-worker.dsmartgo.workers.dev/ID=167767968435d22ec4e572
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: KRT TV |D
+http://python-worker.dsmartgo.workers.dev/ID=32663971466b628514cc37
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: ULKE TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1839766333c98345854971
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: LOVE NATURE HD |D
+http://python-worker.dsmartgo.workers.dev/ID=3578706863286354cd125b
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: MINIKA GO |D
+http://python-worker.dsmartgo.workers.dev/ID=1230912428e2d7def5a827
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: MINIKA OCUK |D
+http://python-worker.dsmartgo.workers.dev/ID=248538205f11003d3b622
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: MELTEM TV |D
+http://python-worker.dsmartgo.workers.dev/ID=700381068b8ceab1f04d9
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NATIONAL GEOGRAPHIC HD |D
+http://python-worker.dsmartgo.workers.dev/ID=107835532503bcbd64d2a1
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NATIONAL GEOGRAPHIC WILD HD |D
+http://python-worker.dsmartgo.workers.dev/ID=132416616ac620ec2effb
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NBA TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=54554813362c2d3f24a58
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NICKTOONS |D
+http://python-worker.dsmartgo.workers.dev/ID=9886913740c93609273d6
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NOW HD |D
+http://python-worker.dsmartgo.workers.dev/ID=257819759392b353c7c9cd
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NR1 DAMAR HD |D
+http://python-worker.dsmartgo.workers.dev/ID=243255622413f3be75d798
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NTV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2073292907b82518f90591
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NUMBER1 TURK HD |D
+http://python-worker.dsmartgo.workers.dev/ID=4042887584d25b9dea1652
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: NUMBER1 TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1526602599a96cf3113544
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: POWER TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1307965662108e5d5c4b4b
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA 1002 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=10766438567db56db901b5
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA AILE 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=300059476388b72e860936
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA AILE HD |D
+http://python-worker.dsmartgo.workers.dev/ID=698495811260934a7c4b1
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA AKSIYON 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=34407115801c767459d612
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA KOMEDI HD |D
+http://python-worker.dsmartgo.workers.dev/ID=4407749494f84856f03db
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA TV 1001 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2761385166466a6f28d774
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA TV 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2950605243455369fa6da
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=27808300333177fd7b2331
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA YERLI 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=3971603427f67ea837a51a
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SINEMA YERLI HD |D
+http://python-worker.dsmartgo.workers.dev/ID=189715947315e62fa64292
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SSPORT |D
+http://python-worker.dsmartgo.workers.dev/ID=21232735982e32865f30ff
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SSPORT 2 |D
+http://python-worker.dsmartgo.workers.dev/ID=93690827446cf78e93279
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SHOW TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=879588960b94fb8fa2dd0
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SOZCU TV |D
+http://python-worker.dsmartgo.workers.dev/ID=960578312686f0f29e07c
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: SPOR SMART |D
+http://python-worker.dsmartgo.workers.dev/ID=31596047b5c3cd870145
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: STAR TV HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2192971293c97637353600
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TELE1 |D
+http://python-worker.dsmartgo.workers.dev/ID=417966180201916205156f
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TEVE2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1917502631f13fff05089a
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TGRT HABER HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1907154704d312eb8b3377
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TJK TV |D
+http://python-worker.dsmartgo.workers.dev/ID=2794936913f4021be82bb1
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1762199258bc99baf9f471
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=388431903371d3ffd67aca
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=41874035123d237233ea9c
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT AVAZ |D
+http://python-worker.dsmartgo.workers.dev/ID=29904103523a8cc61e5fb5
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT BELGESEL HD |D
+http://python-worker.dsmartgo.workers.dev/ID=7869736564cc06a9c7d38
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT HABER HD |D
+http://python-worker.dsmartgo.workers.dev/ID=603651638223283592b1c
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT KURD |D
+http://python-worker.dsmartgo.workers.dev/ID=1216632307c4c1e6a59035
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT M Z K |D
+http://python-worker.dsmartgo.workers.dev/ID=970382162ddd50ab9fa1f
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT OCUK HD |D
+http://python-worker.dsmartgo.workers.dev/ID=30291805060c483e92cd8c
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT SPOR HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2262969938ddae6a1a7898
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT SPOR YILDIZ |D
+http://python-worker.dsmartgo.workers.dev/ID=2750507083bc98671bc83c
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TRT TURK |D
+http://python-worker.dsmartgo.workers.dev/ID=3508477481da6e398ed11e
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TV 4 |D
+http://python-worker.dsmartgo.workers.dev/ID=3574429625133873ea3f7
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TV100 |D
+http://python-worker.dsmartgo.workers.dev/ID=3760496907d3d92e38dbc3
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TV8 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=269329901340b62e2f02eb
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TV8,5 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1886743624c817d4676a81
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: TVNET HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1738739277c7bdedc66c15
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: VIASAT EXPLORE |D
+http://python-worker.dsmartgo.workers.dev/ID=1451950581a02a7c237d82
+#EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: VIASAT HISTORY HD |D
+http://python-worker.dsmartgo.workers.dev/ID=13351302090309885174f7
+
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=2930746102f2e4a5b256f5
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=132036385097914b13e539
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=3910129702a06380e6b72f
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=1522640908b912c57f8d1
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 3 |E
+http://python-worker.dsmartgo.workers.dev/ID=35641061345556a121aa64
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 3 |H
+http://python-worker.dsmartgo.workers.dev/ID=879981610dffa2abfad82
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN GURME |E
+http://python-worker.dsmartgo.workers.dev/ID=3617035414a177b660a02d
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN GURME |H
+http://python-worker.dsmartgo.workers.dev/ID=358323085863cb2e070a61
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN GURME HD |D
+http://python-worker.dsmartgo.workers.dev/ID=9503946568377e1ba14c8
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN IZ |E
+http://python-worker.dsmartgo.workers.dev/ID=16912230782de6c2ba1978
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN IZ TV |H
+http://python-worker.dsmartgo.workers.dev/ID=31561783594fe60b8be183
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES ACTION |E
+http://python-worker.dsmartgo.workers.dev/ID=18734781318dbae7eb6421
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES ACTION |H
+http://python-worker.dsmartgo.workers.dev/ID=3041245607d0287332800f
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES ACTION 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=2617318386a2d2e56b52be
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES ACTION 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=650851542a4bc4db69c93
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES FAMILY |E
+http://python-worker.dsmartgo.workers.dev/ID=24851991523ab5180680ed
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES PREMIERE |E
+http://python-worker.dsmartgo.workers.dev/ID=942987224639af4d0df89
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES PREMIERE |H
+http://python-worker.dsmartgo.workers.dev/ID=21977479645d54362c5209
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES PREMIERE 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=2244069093c6fbea6af4e9
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES PREMIERE 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=21202183563f547f163f28
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES STARS |E
+http://python-worker.dsmartgo.workers.dev/ID=2500913164c25db092574e
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES STARS |H
+http://python-worker.dsmartgo.workers.dev/ID=1963748784d1371e82f1f5
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES TURK |E
+http://python-worker.dsmartgo.workers.dev/ID=33905759482053e27c9b0f
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN MOVIES TURK |H
+http://python-worker.dsmartgo.workers.dev/ID=1835579025421e0b46c42e
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=21909222989587d08289a0
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=330869373817c4fab6cf32
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES 3 |E
+http://python-worker.dsmartgo.workers.dev/ID=41664187788b1f13619a77
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES 4 |E
+http://python-worker.dsmartgo.workers.dev/ID=12492711145e9f6607b9ba
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES COMEDY |H
+http://python-worker.dsmartgo.workers.dev/ID=1668144911c47a13aa17a9
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES DRAMA |H
+http://python-worker.dsmartgo.workers.dev/ID=727975195eec6107eb17b
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES SCI-FI |H
+http://python-worker.dsmartgo.workers.dev/ID=3016529666dac6c6cef893
+#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES VICE |H
+http://python-worker.dsmartgo.workers.dev/ID=11255232626f1b348d06b4
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 FEED (720P) |D
+http://python-worker.dsmartgo.workers.dev/ID=1363827223785a15d8757e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (360P) |D
+http://python-worker.dsmartgo.workers.dev/ID=369233724100976de8b4ea
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (480P) |D
+http://python-worker.dsmartgo.workers.dev/ID=2919229346e755c71b26ac
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 + |D
+http://python-worker.dsmartgo.workers.dev/ID=257621689779b8fed9899e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 50 FPS |D
+http://python-worker.dsmartgo.workers.dev/ID=135242105312913bfa342d
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 H265 |D
+http://python-worker.dsmartgo.workers.dev/ID=24034250311fdb297b466e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD (TURKEY) |D
+http://python-worker.dsmartgo.workers.dev/ID=593493860189d11f7fa05
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=6621796209b1d59f3eb10
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=144724150649fb3ed7eec1
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=25094661918ca2565bad99
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2851539143a8ccc3d357a3
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 SD |D
+http://python-worker.dsmartgo.workers.dev/ID=32363629118af6d1bc5de8
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=3694662475b76c08f52108
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |E
+http://python-worker.dsmartgo.workers.dev/ID=17974596029fac8029a46a
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |H
+http://python-worker.dsmartgo.workers.dev/ID=283451494386b77a7c47f0
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=170059580149fb700b1df3
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 SD |D
+http://python-worker.dsmartgo.workers.dev/ID=2063713299b05d8f73388
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |E
+http://python-worker.dsmartgo.workers.dev/ID=3640906370cbcde264f207
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |H
+http://python-worker.dsmartgo.workers.dev/ID=450076655fd40408ed702
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=18722327683304e835920e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=293826835381972adead05
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(KUTU) |D
+http://python-worker.dsmartgo.workers.dev/ID=267105889df7eebc2e471
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(UYDU) |D
+http://python-worker.dsmartgo.workers.dev/ID=1536730627473741d29b73
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 (MATCH TIME) |H
+http://python-worker.dsmartgo.workers.dev/ID=123044819294be31c3aa03
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 |E
+http://python-worker.dsmartgo.workers.dev/ID=383175761899a7add480e9
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=400031560107e5581e3624
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=273796348642fb87ac24d5
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 8K FEED |D
+http://python-worker.dsmartgo.workers.dev/ID=21134623980ed579742af1
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS FEED (OZEL FEED YAYIN) |D
+http://python-worker.dsmartgo.workers.dev/ID=14536923141c3ea015b82f
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |E
+http://python-worker.dsmartgo.workers.dev/ID=11973360003055e9177b38
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |H
+http://python-worker.dsmartgo.workers.dev/ID=2806079612d7dc0e47a926
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER HD |D
+http://python-worker.dsmartgo.workers.dev/ID=398999553310ffc0558467
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER RAW |D
+http://python-worker.dsmartgo.workers.dev/ID=1646632825716e0af473ba
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=12215870672201e11b391e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=2832430535849b88f81e2d
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=4071474743f02bc2c5b4b9
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2252814237cb3c5658a25
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=258968235d93582b6e753
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=401729512721e1f1ec3280
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=22126598207be09810152c
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST AKSIYON |D
+http://python-worker.dsmartgo.workers.dev/ID=40086029282f9ad3ee9470
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST ANIMASYON |D
+http://python-worker.dsmartgo.workers.dev/ID=1822425118e522ad2532f7
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST BILIMKURGU |D
+http://python-worker.dsmartgo.workers.dev/ID=1566323467ccef4e6ddc18
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST DRAM |D
+http://python-worker.dsmartgo.workers.dev/ID=409901560807478845a2d8
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST HABABAM SINIFI |D
+http://python-worker.dsmartgo.workers.dev/ID=42284818719423bec0b23
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST IMBD |D
+http://python-worker.dsmartgo.workers.dev/ID=196751630568bf810b2501
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST KOMEDI |D
+http://python-worker.dsmartgo.workers.dev/ID=1723326598d033f0c3e481
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST LOCA 1 |D
+http://python-worker.dsmartgo.workers.dev/ID=1063857052093162e8245a
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST LOCA 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=1168734460b72d5232bda0
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST NETFLIX |D
+http://python-worker.dsmartgo.workers.dev/ID=3531727990a769ee31b832
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST SALON 2 |D
+http://python-worker.dsmartgo.workers.dev/ID=3719894741930f51468e24
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST SALON 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=3772333925bf6f2c591f9d
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST SAVAS |D
+http://python-worker.dsmartgo.workers.dev/ID=1358616385fceaf46d8a85
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST TURK |D
+http://python-worker.dsmartgo.workers.dev/ID=1196198280c3772a112ba3
+#EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST WESTERN |D
+http://python-worker.dsmartgo.workers.dev/ID=1324126222211fe9a5ef76
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM AKSIYON |D
+http://python-worker.dsmartgo.workers.dev/ID=15146435363810ffcd2c36
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM ANIMASYON |D
+http://python-worker.dsmartgo.workers.dev/ID=3968360733b8691fce803a
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 1 |D
+http://python-worker.dsmartgo.workers.dev/ID=2759159211578044b0b736
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 10 |D
+http://python-worker.dsmartgo.workers.dev/ID=3853043495ffcc1ace5096
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 2 |D
+http://python-worker.dsmartgo.workers.dev/ID=382239321176815f24cf7f
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=37364200438f3d0767c77c
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 5 |D
+http://python-worker.dsmartgo.workers.dev/ID=13750628918fc1c50af155
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 6 |D
+http://python-worker.dsmartgo.workers.dev/ID=3747148117c6a4024e779
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 7 |D
+http://python-worker.dsmartgo.workers.dev/ID=724932619ae12388cc8cc
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 8 |D
+http://python-worker.dsmartgo.workers.dev/ID=28419726982c4382922825
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BEIN OFFICE 9 |D
+http://python-worker.dsmartgo.workers.dev/ID=24833654826174a57bb3d0
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM BOX-SET |D
+http://python-worker.dsmartgo.workers.dev/ID=855745980afcdb5415872
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM DRAM |D
+http://python-worker.dsmartgo.workers.dev/ID=354840976488a9ec6ce5af
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM KEMAL SUNAL |D
+http://python-worker.dsmartgo.workers.dev/ID=95010505a8faf3afb8b1
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM KOMEDI |D
+http://python-worker.dsmartgo.workers.dev/ID=3301226362c390f811b60b
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM KORKU |D
+http://python-worker.dsmartgo.workers.dev/ID=2631555564c539903b65f3
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM LOCA 1 |D
+http://python-worker.dsmartgo.workers.dev/ID=26357586882b66211b97a5
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM LOCA 2 |D
+http://python-worker.dsmartgo.workers.dev/ID=36696244961605d125113f
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM LOCA 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=3889835776bcde29b75bf2
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM NETFLIX |D
+http://python-worker.dsmartgo.workers.dev/ID=171390799018336090c611
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM SAVAS |D
+http://python-worker.dsmartgo.workers.dev/ID=11552914906ea0c87802fe
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM TURK (BACKUP) |D
+http://python-worker.dsmartgo.workers.dev/ID=255709069548a545ce69a5
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM TURK |D
+http://python-worker.dsmartgo.workers.dev/ID=16210261965abce2dc3efb
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM TURK |E
+http://python-worker.dsmartgo.workers.dev/ID=678794615d71234f11930
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM TURK |H
+http://python-worker.dsmartgo.workers.dev/ID=7120984119d91a54ab792
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM TV |D
+http://python-worker.dsmartgo.workers.dev/ID=138347343566e8f7897a45
+#EXTINF:-1 group-title=" Dream Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", DREAM WESTERN |D
+http://python-worker.dsmartgo.workers.dev/ID=4198849902ee6435d461ad
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO AKSIYON 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=633768195f9070ceb86aa
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO ANIMASYON |H
+http://python-worker.dsmartgo.workers.dev/ID=3833753338e45edbfc8fe5
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=194974260303321378958f
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 10 |H
+http://python-worker.dsmartgo.workers.dev/ID=163538435217d39a3e3231
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 11 |H
+http://python-worker.dsmartgo.workers.dev/ID=1545196944211e37e5976c
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 12 |H
+http://python-worker.dsmartgo.workers.dev/ID=46515385696f4c1d2bc7d
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 14 |H
+http://python-worker.dsmartgo.workers.dev/ID=2499369696c997fc54b84b
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 15 |H
+http://python-worker.dsmartgo.workers.dev/ID=28454060321e36492870d4
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=865520859c6bbf07ec7e9
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 3 |H
+http://python-worker.dsmartgo.workers.dev/ID=251061611546ed31b6efe
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 4 |H
+http://python-worker.dsmartgo.workers.dev/ID=3168156027c3f537f56216
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 5 |H
+http://python-worker.dsmartgo.workers.dev/ID=21761927152d445097856a
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 6 |H
+http://python-worker.dsmartgo.workers.dev/ID=33233577239240c314dfbf
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 7 |H
+http://python-worker.dsmartgo.workers.dev/ID=42188317874f51a19751f3
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 8 |H
+http://python-worker.dsmartgo.workers.dev/ID=2032587898b52506d2689e
+#EXTINF:-1 group-title=" ENO VİZYON Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", ENO VIZYON 9 |H
+http://python-worker.dsmartgo.workers.dev/ID=1145503178c2e0573bf522
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPOR 1 SD |D
+http://python-worker.dsmartgo.workers.dev/ID=2024568982e1fb7ea47473
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=1188258066f39e6298dc4b
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=1842018252da2d95a0f475
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY] |H
+http://python-worker.dsmartgo.workers.dev/ID=3961480108fffc56f74eb2
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=24320962395339d7c648
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] |H
+http://python-worker.dsmartgo.workers.dev/ID=380793945399d48c90049a
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 4 |H
+http://python-worker.dsmartgo.workers.dev/ID=2771024060c729ca34f9b7
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 5 |H
+http://python-worker.dsmartgo.workers.dev/ID=2555007244e696d2310074
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 6 |H
+http://python-worker.dsmartgo.workers.dev/ID=3756665820b5bf693a3a60
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 7 |H
+http://python-worker.dsmartgo.workers.dev/ID=38006954040031666420f9
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN SPORTS 8 |H
+http://python-worker.dsmartgo.workers.dev/ID=162493791753beb4890e48
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV |E
+http://python-worker.dsmartgo.workers.dev/ID=24260976594a516505ed9f
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 1 |D
+http://python-worker.dsmartgo.workers.dev/ID=12083699956e772f599141
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 1 720P |D
+http://python-worker.dsmartgo.workers.dev/ID=33339028670873b7a29a3a
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 1 FEED |D
+http://python-worker.dsmartgo.workers.dev/ID=109140391286299a00a178
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1204200801a5104d5fd3ea
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 1 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=3814925371184c14d36891
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=33770461468efc53313930
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 2 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=3673037054411c2f597d26
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 3 |D
+http://python-worker.dsmartgo.workers.dev/ID=8518410671a522ff96de7
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 4 |D
+http://python-worker.dsmartgo.workers.dev/ID=21626092115fd8b860d3d3
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 5 |D
+http://python-worker.dsmartgo.workers.dev/ID=3179734411e2516e701706
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 6 |D
+http://python-worker.dsmartgo.workers.dev/ID=4196835163134f8de0e0a2
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 7 |D
+http://python-worker.dsmartgo.workers.dev/ID=3343300331690f5fcd57ae
+#EXTINF:-1 group-title=" EXXEN TV SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", EXXEN TV SPOR 8 |D
+http://python-worker.dsmartgo.workers.dev/ID=1159078202baf7172fe022
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT |E
+http://python-worker.dsmartgo.workers.dev/ID=334654972230cb8b87fc4c
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT |H
+http://python-worker.dsmartgo.workers.dev/ID=3718336295df22a5d5825d
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=1313768516f4e2fb1853d4
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=1234604880c7638b38f698
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT+3 MAC SAATI |D
+http://python-worker.dsmartgo.workers.dev/ID=32693723268b5c871a5e91
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT+4 MAC SAATI |D
+http://python-worker.dsmartgo.workers.dev/ID=1507829436971531d2460b
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S SPORT+5 MAC SAATI |D
+http://python-worker.dsmartgo.workers.dev/ID=3760487764c074d54cba2f
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S ZC SZC TV |D
+http://python-worker.dsmartgo.workers.dev/ID=2466905700da1caaa3d81e
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT 1 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=35317621955a43bd93b947
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1183409452f74cc8d9c294
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT 2 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=3943651030ed30b5af10f6
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT PLUS FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=40360462190582d8e63fd1
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT+1 MAC SAATI |D
+http://python-worker.dsmartgo.workers.dev/ID=2559756791cdeaac29f12e
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORT+2 MAC SAATI |D
+http://python-worker.dsmartgo.workers.dev/ID=231418356625d245c7276a
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORTS 1 HD |H
+http://python-worker.dsmartgo.workers.dev/ID=4160022414d11bf3a4ed81
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORTS 1 SD |D
+http://python-worker.dsmartgo.workers.dev/ID=320290523a3aa65f45505
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORTS 2 HD |H
+http://python-worker.dsmartgo.workers.dev/ID=2038161517904d8f2a61e9
+#EXTINF:-1 group-title=" S SPORT Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", S-SPORTS 2 SD |D
+http://python-worker.dsmartgo.workers.dev/ID=26439990321d0bfd8e6bd9
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR |E
+http://python-worker.dsmartgo.workers.dev/ID=184486327bb2598616495
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=10977951412d782ce183c9
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 1 4K |D
+http://python-worker.dsmartgo.workers.dev/ID=38306913162ac200b131a5
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 1 720P |D
+http://python-worker.dsmartgo.workers.dev/ID=3665914763f995f89a01b9
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 1 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=3107708522fef862b48431
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=1142611411a268790e53b
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2490165372d6b0da7d5bec
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 2 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=2159469231edab65ccdfad
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 3 |E
+http://python-worker.dsmartgo.workers.dev/ID=1001346341ab09536ba9c0
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 3 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1489430754b69b88da4f65
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 3 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=2546857708f061484420d9
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 4 |E
+http://python-worker.dsmartgo.workers.dev/ID=2307885365cde37172e871
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 4 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=1375986171ebc9f0327f95
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 5 |E
+http://python-worker.dsmartgo.workers.dev/ID=3035603077b1b74299e6d9
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 5 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2661933413bc70911cae04
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 5 UHD |D
+http://python-worker.dsmartgo.workers.dev/ID=383933219869a035e6f4bc
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR 6 |E
+http://python-worker.dsmartgo.workers.dev/ID=4082096725c4b03c14af7f
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR HD |D
+http://python-worker.dsmartgo.workers.dev/ID=22594800870585b00a3e9e
+#EXTINF:-1 group-title=" TABİİ SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TABII SPOR SD |D
+http://python-worker.dsmartgo.workers.dev/ID=40221481753301321746ce
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR |E
+http://python-worker.dsmartgo.workers.dev/ID=115989992059add1058347
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 1 |E
+http://python-worker.dsmartgo.workers.dev/ID=25659723381aec03f8669e
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 1 |H
+http://python-worker.dsmartgo.workers.dev/ID=1528949791bc1a740c6027
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 1 HD |H
+http://python-worker.dsmartgo.workers.dev/ID=20465839258fc4e843cff9
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 2 |E
+http://python-worker.dsmartgo.workers.dev/ID=3746683810108e0d3fdd02
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 2 |H
+http://python-worker.dsmartgo.workers.dev/ID=478254799a8bcdb038adb
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 2 HD |H
+http://python-worker.dsmartgo.workers.dev/ID=4151534486bb70eeef7068
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 3 |E
+http://python-worker.dsmartgo.workers.dev/ID=3794924050cc7306217d0b
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 3 |H
+http://python-worker.dsmartgo.workers.dev/ID=568442751e1d17aff5093
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 3 HD |H
+http://python-worker.dsmartgo.workers.dev/ID=1004102408bfb9c2d4bcbd
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 4 |E
+http://python-worker.dsmartgo.workers.dev/ID=1343303170b65b439eb124
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 4 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=330706270428c56591e8b1
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR 5 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=16303851075d8c1b90600
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBU SPOR RAW |D
+http://python-worker.dsmartgo.workers.dev/ID=1406262118c1c6fbebd42c
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 1 FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=2896658744981ea6955dee
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 1 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=3654518007bf7572732756
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 2 FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=2502606333f4d2aaf7c591
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 2 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=146568066018ab7b66e0b1
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 3 FHD |D
+http://python-worker.dsmartgo.workers.dev/ID=21863899502c80e001941e
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR 3 HD |D
+http://python-worker.dsmartgo.workers.dev/ID=2616624010dfb6767ad7d8
+#EXTINF:-1 group-title=" TİVİBU SPOR Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", TIVIBUSPOR SPOR HD |D
+http://python-worker.dsmartgo.workers.dev/ID=365351585881372903c14e
